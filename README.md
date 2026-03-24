@@ -4,7 +4,7 @@ Minimal, working examples of Linux inter‑process communication (IPC) technique
 
 ---
 
-## 📂 Methods Covered
+## Methods Covered
 
 - **D‑Bus**
   - Example service and client demonstrating message bus communication.
